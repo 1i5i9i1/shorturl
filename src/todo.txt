@@ -1,0 +1,10 @@
+1. + add enum app-error
+2. + use error
+3. + change sync to async
+4. + fix tests
+5. + check for url
+
+6. - add postgres impl
+7. - add adapter for postgres
+8. - add schema for postgres
+9. - add migration for postgres
